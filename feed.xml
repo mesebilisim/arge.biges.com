@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Biges Ar-Ge Merkezi</title>
+  <subtitle>Yazılım Geliştirme Blogu</subtitle>
+  <id>https://arge.biges.com</id>
+  <link href="https://arge.biges.com"/>
+  <link href="https://arge.biges.com/feed.xml" rel="self"/>
+  <updated>2020-04-16T18:07:00+03:00</updated>
+  <author>
+    <name>ARGE Ekibi</name>
+  </author>
+  <entry>
+    <title>Pythonistalar Arıyoruz</title>
+    <link rel="alternate" href="https://arge.biges.com/2020/04/16/pythonistalar-ariyoruz/"/>
+    <id>https://arge.biges.com/2020/04/16/pythonistalar-ariyoruz/</id>
+    <published>2020-04-16T18:07:00+03:00</published>
+    <updated>2020-04-16T18:25:25+03:00</updated>
+    <author>
+      <name>ARGE Ekibi</name>
+    </author>
+    <summary type="html">&lt;p&gt;Biges Ar-Ge ekibi olarak geliştirdiğimiz ve geliştirmekte olduğumuz yazılım ve
+donanım projeleri için Python programcıları aramaktayız.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Arayüz Geliştiricileri Arıyoruz</title>
+    <link rel="alternate" href="https://arge.biges.com/2020/04/16/arayuz-gelistiricileri-ariyoruz/"/>
+    <id>https://arge.biges.com/2020/04/16/arayuz-gelistiricileri-ariyoruz/</id>
+    <published>2020-04-16T16:08:00+03:00</published>
+    <updated>2020-04-16T18:03:18+03:00</updated>
+    <author>
+      <name>ARGE Ekibi</name>
+    </author>
+    <summary type="html">&lt;p&gt;Biges Ar-Ge ekibi, günümüzde teknolojinin en popüler alanlarından birisi olan
+Nesnelerin İnterneti (&lt;em&gt;IoT&lt;/em&gt;), kullanıcıların bulut tabanlı uygulamalara ve
+çözümlere dilediği platformdan kolayca ulaşmasını sağlamak amacıyla
+geliştirilen SaaS (&lt;em&gt;Software as a Service&lt;/em&gt;) modeli ve buna bağlı güçlü bulut
+altyapısı ve otonom sistemler gibi konularda benzersiz projeler üzerinde
+çalışmaktadır.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Switched Mode Güç Kaynakları (SMPS) (1)</title>
+    <link rel="alternate" href="https://arge.biges.com/2020/02/09/switched-mode-guc-kaynaklari-smps-1/"/>
+    <id>https://arge.biges.com/2020/02/09/switched-mode-guc-kaynaklari-smps-1/</id>
+    <published>2020-02-09T10:00:00+03:00</published>
+    <updated>2020-04-16T09:47:49+03:00</updated>
+    <author>
+      <name>Soner Boztaş</name>
+    </author>
+    <summary type="html">&lt;p&gt;Bugün ki yazımda sizlere genel anlamda &lt;strong&gt;Switched Mode Power Supply&lt;/strong&gt; (&lt;em&gt;SMPS&lt;/em&gt;)
+yani halk arasında bilinen tabiriyle &lt;strong&gt;Anahtarlamalı Güç Kaynakları&lt;/strong&gt;ndan
+bahsedeceğim&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>DC - DC Güç Regülatörleri Hakkında Bilinmeyenler</title>
+    <link rel="alternate" href="https://arge.biges.com/2020/02/02/dc-dc-guc-regulatorleri-hakkinda-bilinmeyenler/"/>
+    <id>https://arge.biges.com/2020/02/02/dc-dc-guc-regulatorleri-hakkinda-bilinmeyenler/</id>
+    <published>2020-02-02T10:00:00+03:00</published>
+    <updated>2020-04-16T09:47:49+03:00</updated>
+    <author>
+      <name>Soner Boztaş</name>
+    </author>
+    <summary type="html">&lt;p&gt;Herkese merhaba. Bu yazımda DC-DC Güç regülatörlerinin pek bilinmeyen
+özellikleri hakkında bir takım tecrübelerimi ve bilgilerimi aktaracağım.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Pythonistalar için Nesnenin String() Görüntüsü</title>
+    <link rel="alternate" href="https://arge.biges.com/2018/10/18/nesnenin-string-goruntusu/"/>
+    <id>https://arge.biges.com/2018/10/18/nesnenin-string-goruntusu/</id>
+    <published>2018-10-18T13:21:00+03:00</published>
+    <updated>2020-04-16T09:47:49+03:00</updated>
+    <author>
+      <name>Uğur Özyılmazel</name>
+    </author>
+    <summary type="html">&lt;p&gt;&lt;code&gt;python&lt;/code&gt;’daki &lt;code&gt;__str__&lt;/code&gt; ve &lt;code&gt;__repr__&lt;/code&gt; metodlarının &lt;code&gt;golang&lt;/code&gt; karşılığını
+arıyordum. Karşıma &lt;code&gt;String()&lt;/code&gt; çıktı&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Django ve Query İpuçları</title>
+    <link rel="alternate" href="https://arge.biges.com/2018/10/15/django-ve-query-ipuclari/"/>
+    <id>https://arge.biges.com/2018/10/15/django-ve-query-ipuclari/</id>
+    <published>2018-10-15T10:00:00+03:00</published>
+    <updated>2020-04-16T09:47:49+03:00</updated>
+    <author>
+      <name>Erdi Mollahüseyinoğlu</name>
+    </author>
+    <summary type="html">&lt;p&gt;Üzerinde çalıştığımız Django projesinde artık sıra iyileştirmeler kısmına gelmişti.
+Kullandığımız veritabanı PostgreSQL’di ve Django View’larındaki sorgu miktarlarını
+incelemeye başlamıştım.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Merhaba Dünya</title>
+    <link rel="alternate" href="https://arge.biges.com/2018/09/11/merhaba-dunya/"/>
+    <id>https://arge.biges.com/2018/09/11/merhaba-dunya/</id>
+    <published>2018-09-11T14:17:00+03:00</published>
+    <updated>2020-04-16T09:47:49+03:00</updated>
+    <author>
+      <name>M. Fatih Kılıç</name>
+    </author>
+    <summary type="html">&lt;p&gt;Türkiye&amp;#39;nin önde gelen güvenlik sistemleri distribütörlerinden olan Biges, 20
+senedir faaliyet gösterdiği bu sektörde analog sistemlerden dijital sistemlere
+geçişin öncüsü olmuş ve bu alandaki bir çok yeni ürünü ilk kez Türkiye
+pazarına sunmuştur. Bir bilgi teknolojileri firması olarak kurulan Biges, bu
+alandaki bilgi birikimini ve tecrübesini Türkiye geneline yayılan iş
+ortaklarıyla birleştirerek sektörün gelişmesinde önemli katkılar sağlamıştır.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
